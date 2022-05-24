@@ -33,6 +33,7 @@ h3 {
   width: inherit;
   position: relative;
   height: 100px;
+  text-align: center;
 }
 
 .list-item-color {
